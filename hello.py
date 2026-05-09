@@ -1,1 +1,1 @@
-print("hello KSIt git workshop")
+print("hello KSIT git workshop")
